@@ -110,10 +110,10 @@ git push -u origin main
   ![task7](https://user-images.githubusercontent.com/107887745/209414525-83eff6db-3e58-4628-9fbc-46549cbdfc78.png)
 
 
-3. Sonuçları kontrol et https://github.com/inery-blockchain/inery-testnet-faucet-tasks
-<p align="center">
-  <img src="https://github.com/ArumaSanjayani/Images/blob/main/check.png">
-</p>
+3. Sonuçları kontrol et pull request kısmında ismin çıktıysa tamamdır
+https://github.com/inery-blockchain/inery-testnet-faucet-tasks
+![task8](https://user-images.githubusercontent.com/107887745/209416620-c8ae4402-bb50-40dd-89b5-c5242fa723e7.png)
+
 
 
 
