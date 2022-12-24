@@ -4,7 +4,7 @@
 
 ```
 cd
-IneryAccname=Nama_Akun_Inery
+IneryAccname=Inery_Account Name
 ```
 ```
 export PATH="$PATH:$HOME/inery.cdt/bin:$HOME/inery-node/inery/bin"
