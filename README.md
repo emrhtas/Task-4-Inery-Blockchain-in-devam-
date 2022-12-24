@@ -50,7 +50,7 @@ npm run build-web
 cp -r $HOME/ineryjs/dist-web/ $HOME/inery-testnet-faucet-tasks/$IneryAccname/dist-web/
 ```
 
-### 7. Proje Dizinine gidin ve bir html dosyası oluşturun
+### 7. Proje Dizinine gidin ve bir html dosyası oluşturun kodları tek tek girin
 ```
 cd ~/inery-testnet-faucet-tasks/$IneryAccname
 nano index.html
