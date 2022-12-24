@@ -99,7 +99,7 @@ git push -u origin main
 ```
 
 ### 11. Github'a tekrar geri dönün
-1. 2. adımda yapılan Çatal deposunu yenileyin
+1. ikinci adımda yapılan Çatal deposunu yenileyin
 ![task6](https://user-images.githubusercontent.com/107887745/209413858-6aa011e5-5291-4e6e-987b-64fe75086485.png)
 
 
