@@ -10,7 +10,7 @@ IneryAccname=Inery_Account Name
 export PATH="$PATH:$HOME/inery.cdt/bin:$HOME/inery-node/inery/bin"
 ```
 
-### 2. Bir fork projesi oluşturun
+### 2. Inery testnet faucet task reposunu forkluyoruz
 
 Sayfaya Gidin :
 https://github.com/inery-blockchain/inery-testnet-faucet-tasks
