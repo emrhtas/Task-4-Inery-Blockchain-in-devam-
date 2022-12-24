@@ -78,7 +78,7 @@ cd ~/inery-testnet-faucet-tasks/$IneryAccname
 nano README.md
 ```
 
-### 10. Görevi Github'a Bağlayın
+### 10. Görevi Github'a Bağlayın sonda şifre isterse rehberin sonunda nasıl alacağınızı yazdım
 ```
 cd ~/inery-testnet-faucet-tasks/
 ```
